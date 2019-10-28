@@ -1,14 +1,3 @@
-@font-face {
-    font-family: redhat;
-    src: url(red-hat.display.ttf);
-}
-
-
-@font-face {
-    font-family: aldrich;
-    src: url(Aldrich-Regular.ttf);
-}
-
 .topdiv{
     display: block;
     margin: auto;
@@ -55,6 +44,11 @@ img{
     float: left;
     margin-right: 1%;
     border-radius: 5px;
+}
+
+@font-face {
+    font-family: redhat;
+    src: url(red-hat.display.ttf);
 }
 .artists{
     position: absolute;
